@@ -1,0 +1,30 @@
+/* com_list start */
+.com_list {
+	float: right;
+	width: 60%;
+}
+
+.current {
+	display: none;
+}
+/* 评论区组件 */
+.contain {
+	width: 100%;
+}
+/* li组件 */
+.contain_list {
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+.contain_list h2 {
+	font-weight: 400;
+	margin-bottom: 10px;
+}
+
+.contain_list ul {
+	width: 100%;
+}
+
+
+/* com_list end */

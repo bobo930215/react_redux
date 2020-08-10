@@ -1,0 +1,27 @@
+.addmoudle {
+    float: left;
+    width: 40%;
+}
+
+.addmoudle input,
+.addmoudle textarea {
+    width: 300px;
+    margin: 15px 0 15px 15px;
+    outline: none;
+    border: 1px solid #ccc;
+}
+
+.addmoudle input {
+    height: 30px;
+}
+
+.addmoudle textarea {
+    height: 200px;
+    resize: none;
+}
+
+.addmoudle button {
+    width: 100px;
+    height: 30px;
+    margin-left: 15px;
+}

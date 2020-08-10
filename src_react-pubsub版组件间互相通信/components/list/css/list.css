@@ -1,0 +1,9 @@
+.listmoudle {
+    float: right;
+    width: 60%;
+}
+
+.current {
+    display: none;
+    text-align: center;
+}
